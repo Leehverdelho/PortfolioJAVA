@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro.
+//Este codigo pede ao usuário para digitar 2 valores e no final mostra a soma desses 2 numeros.
 
 //Exercicio-A.
 
