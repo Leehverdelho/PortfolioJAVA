@@ -1,4 +1,5 @@
 //Desenvolvido por Leticia Verdelho Ribeiro - data - 30/09/2024
+//Este codigo pede ao usuário pera ele digitar a sua idade se ele tiver mais de 18 anos de idade o programa retorna voce é maior de idade , senão o programa retorna voce é menor de idade.
 
 //Exercicio 1
 
