@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro.
+//Este codigo pede ao usuario para que digite o codigo de uma peça, a quantidade e o valor unitario das peças e no final o programa mostra o valor a pagar.
 
 //Exercicio-D.
 
