@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro. data 23/09/2024
+//Este programa pede ao usuário pera ele digitar um valor inteiro, se o valor for inteiro ele ira realizar o calculo senão o programa ira pedir ao usuario para ele digitar um valor inteiro
 
 //Exercício 5
 
