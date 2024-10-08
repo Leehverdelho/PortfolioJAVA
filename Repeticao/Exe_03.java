@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro. data 23/09/2024
+//Este codigo pede ao usuário para digitar uma valor para N e um outro valor e no final ele mostra a divisão desses valores, se um dos numeros for 0 o programa vai exibir "Divisão Impossivel".
 
 
 //Exercício 3
