@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro. data 19/09/2024
+//Este codigo pede ao usuário digitar uma quantidade de Bits e o programa retorna a quantidade de Bytes e de Bits restantes,
 
 import java.util.Scanner;
 
