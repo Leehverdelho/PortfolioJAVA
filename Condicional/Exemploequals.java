@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro.
+//Este codigo pede ao usuario para digitar bom dia,boa tarde ou boa noite e o programa retorna fazendo a mesma saudação.
 
 import java.util.Scanner;
 
