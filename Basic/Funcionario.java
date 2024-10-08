@@ -1,5 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro.
-//Este codigo pede ao usuário 
+//Este codigo pede ao usuário para que digita seu numero e as horas trabalhadas e o valor que ele recebe por hora e no final o programa mostra o salario do funcionario.
 
 //Exercicio-E.
 
