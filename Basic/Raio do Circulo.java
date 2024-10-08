@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro.
+//Este codigo pede ao usuário para digitar o valor do raio de um circulo e no final mostra a Area deste circulo.
 
 //Exercicio-B.
 
