@@ -1,4 +1,5 @@
 //Desenvolvido_por_Leticia_Verdelho_Ribeiro. data 23/09/2024
+//Este codigo pede ao usuário para ele digitar um valor e o programa retornara os divisores desse valor.
 
 //Exercício 4
 
